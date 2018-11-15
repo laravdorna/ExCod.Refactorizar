@@ -11,10 +11,10 @@ public class Factorial {
 
     public static void main(String[] args) {
         //Atributos
-        int numero=8; // j = 8; se puede inicializar cuando se crea el atributo
+        int numero = 8; // j = 8; se puede inicializar cuando se crea el atributo
         int factorial;
         int iteracion;
-        
+
         //crea un bucle
         if (numero == 0) {
             factorial = 1;
